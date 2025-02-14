@@ -82,7 +82,7 @@ const Hero = () => {
                 className="absolute inset-0 bg-gradient-to-r from-pink-500 via-purple-500 to-cyan-500 rounded-full blur-3xl opacity-30"
               />
               <motion.img
-                src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?fit=crop&w=800&h=800"
+                src="https://res.cloudinary.com/dsw0kcvkq/image/upload/ar_50.0,c_crop,g_north,h_1.00/mdcnxijjlknltvbej9l4"
                 alt="Muhammad Arif"
                 className="w-64 h-64 md:w-80 md:h-80 rounded-full object-cover relative z-10 mx-auto gradient-border"
                 whileHover={{ scale: 1.05 }}
